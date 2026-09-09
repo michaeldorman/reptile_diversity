@@ -93,34 +93,3 @@ Printouts of the table structure and description of the columns are given in the
 
 
 
-
-- **File:** `data/table1_[short_name].csv`
-- **Description:** [What this table contains and its role in the paper, e.g., "Raw survey responses collected from N participants."]
-- **Rows:** [number] | **Columns:** [number]
-
-| Column | Type | Description | Units | Notes |
-|---|---|---|---|---|
-| `col_name_1` | string/int/float | Description of the column | — | |
-| `col_name_2` | string/int/float | Description of the column | — | |
-
-### Table 2 — [Short descriptive name]
-- **File:** `data/table2_[short_name].csv`
-- **Description:** [Description]
-- **Rows:** [number] | **Columns:** [number]
-
-| Column | Type | Description | Units | Notes |
-|---|---|---|---|---|
-| `col_name_1` | string/int/float | Description of the column | — | |
-
-### Table 3 — [Short descriptive name]
-- **File:** `data/table3_[short_name].csv`
-- **Description:** [Description]
-- **Rows:** [number] | **Columns:** [number]
-
-| Column | Type | Description | Units | Notes |
-|---|---|---|---|---|
-| `col_name_1` | string/int/float | Description of the column | — | |
-
-## Acknowledgments
-
-...
