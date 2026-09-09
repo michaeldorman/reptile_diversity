@@ -1,5 +1,7 @@
 # Data for reptile diversity paper
 
+[![DOI](https://zenodo.org/badge/1362324856.svg)](https://doi.org/10.5281/zenodo.22679509)
+
 ## Overview
 
 This repository contains the three data tables referenced in the following paper:
